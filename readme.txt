@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 hello world!
 Greating a new branch is quick and simple.
-dev1
+dev
