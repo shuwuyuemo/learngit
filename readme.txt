@@ -5,3 +5,4 @@ Git tracks changes.
 hello world!
 Greating a new branch is quick and simple.
 Drop fast forward
+there exists a bug
